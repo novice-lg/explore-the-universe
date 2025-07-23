@@ -1,2 +1,3 @@
 # explore-the-universe
-Shine and contribute on the path of code
+This is a learning repository
+Vision statement：Shine and contribute on the path of code
